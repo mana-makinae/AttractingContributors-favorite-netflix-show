@@ -34,3 +34,4 @@ ex) Brooklyn Nine-Nine
 7. Stranger things
 8. JoJo
 9. Squid Game
+10. Terrace House
