@@ -24,13 +24,13 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Goal-I want contributors to help me finishing this assignment
 
 # List of Your Favorite Netflix Show
-1. Brooklyn Nine-Nine(Example)
-2. BAIOHAZARD
-3. Walking Dead
-4. 斉木楠雄のΨ難
-5. Stranger Things
-6. ドラえもん
-７. アンパンマン
-8. Stranger things
-9. JoJo
-10. Squid Game
+ex) Brooklyn Nine-Nine
+1. BAIOHAZARD
+2. Walking Dead
+3. 斉木楠雄のΨ難
+4. Stranger Things
+5. ドラえもん
+6. アンパンマン
+7. Stranger things
+8. JoJo
+9. Squid Game
