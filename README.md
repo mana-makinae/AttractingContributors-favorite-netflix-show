@@ -33,3 +33,4 @@ Goal-I want contributors to help me finishing this assignment
 ７. アンパンマン
 8. Stranger things
 9. JoJo
+10. Squid Game
